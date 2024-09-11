@@ -1,6 +1,6 @@
 <div align=center>
 
-## Laravel Progress
+## Laravel Progress PBKK
 
 |    NRP     |             Name             |
 | :--------: | :--------------------------: |
